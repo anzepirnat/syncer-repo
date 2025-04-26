@@ -1,0 +1,13 @@
+Package: syncer
+Version: 0.1.0-1
+Architecture: amd64
+Maintainer: Anze Pirnat anze.pirnat2001@gmail.com
+Installed-Size: 722
+Filename: ./syncer_0.1.0-1_amd64.deb
+Size: 268872
+MD5sum: 47c79626d2df77eec57ba390fbffdfd1
+SHA1: 2817bd5cd5900ded0c2687c6cfb887835d4c57bb
+SHA256: cda5fff4e331584d4243a86063f76f5afdc637aae946aa8c5d80f88c5bc2fa86
+Priority: optional
+Description: [generated from Rust crate syncer]
+
