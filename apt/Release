@@ -1,5 +1,11 @@
-Archive: stable
-Component: main
-Origin: Syncer
-Label: Syncer Repo
-Architecture: amd64
+Origin: Syncer Repository
+Label: syncer
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: amd64
+Components: main
+Date: Sat, 26 Apr 2025 17:55:04 +0000
+
+SHA256:
+ 10216393f01c81b4f7a94b45f66596d876dcde194e13123d411bd335c3ab170e 312 Packages.gz
